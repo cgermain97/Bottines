@@ -9,7 +9,7 @@ enableGitInfo = true
 tag = "tags"
 
 [permalinks]
-post = "/:filename/"
+posts = "/:filename/"
 
 [imaging]
 quality = 99
@@ -17,7 +17,7 @@ quality = 99
 [params]
 description = "description"
 homeMetaContent = ""
-footer = "footer"
+footer = "Texte du footer"
 dateFormat = "Jan 2, 2006"
 codePenUser = "someUser"
 katex = true
@@ -26,29 +26,34 @@ search = true
 showThemeSwitcher = true
 defaultDarkTheme = false
 moveFooterToHeader = false
-logoAlt = "An alternative text description of the logo"
+logoAlt = "Description si le logo ne s'affiche pas"
 customCss = [ "css/custom_01.css", "css/custom_02.css" ]
 customJs = [ "js/custom_01.js", "js/custom_02.js" ]
 
 [[menu.nav]]
-name = "Home"
+name = "Accueil"
 url = "/"
 weight = 1
 
 [[menu.nav]]
-name = "Blog"
-url = "/post/"
+name = "Posts"
+url = "/posts/"
 weight = 2
+
+[[menu.nav]]
+name = "Documentation"
+url = "/docs/"
+weight = 3
 
 [[menu.nav]]
 name = "Tags"
 url = "/tags/"
-weight = 3
+weight = 4
 
 [[menu.nav]]
-name = "About"
+name = "À propos"
 url = "/about/"
-weight = 4
+weight = 5
 
 [markup]
 defaultMarkdownHandler = "goldmark"

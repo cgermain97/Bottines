@@ -8,12 +8,12 @@ toc: true
 ## Bloc de citation
 
 ```
-{{</* blockquote author="Alan Turing" */>}}
+{{</* blockquote author="Alan Turing, *Je suis intelligent* " */>}}
 La science ne nous dit pas où nous allons - c’est le rôle de l’art - ; elle nous dit où nous sommes.
 {{</* /blockquote */>}}
 ```
 
-{{< blockquote author="Alan Turing" >}}
+{{< blockquote author="Alan Turing, *Je suis intelligent* " >}}
 La science ne nous dit pas où nous allons - c’est le rôle de l’art - ; elle nous dit où nous sommes.
 {{< /blockquote >}}
 
@@ -30,6 +30,21 @@ C'est une note ! Une note qui peut être *balisée* en `markdown`.
 {{< /note >}}
 
 ## Expansion
+
+```
+{{</* expandable label="expansion 1" level="2" */>}}
+Texte
+{{</* /expandable */>}}
+
+{{</* expandable label="expansion 2" level="2" */>}}
+Texte
+{{</* /expandable */>}}
+
+{{</* expandable label="expansion 3" level="2" >}}
+Texte
+{{</* /expandable */>}}
+```
+
 
 {{< expandable label="expansion 1" level="2" >}}
 Texte

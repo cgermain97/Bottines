@@ -1,5 +1,5 @@
 ---
-title: "Rappel Balisage"
+title: "Balisage en Markdown"
 date: 2019-02-14T15:36:09-06:00
 tags: [markdown]
 toc: true

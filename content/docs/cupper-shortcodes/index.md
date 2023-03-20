@@ -96,6 +96,18 @@ Texte
 * Niveau 2  
 {{< /fileTree >}}
 
+## Marqueur 
+
+```
+{{</* warning */>}}
+This is a warning! It's about something the reader should be careful to do or to avoid doing. Use warnings when something could go wrong. You can also *include* **markdown** stuffs like `code`.
+{{</* /warning */>}}
+```
+
+{{< warning >}}
+This is a warning! It's about something the reader should be careful to do or to avoid doing. Use warnings when something could go wrong. You can also *include* **markdown** stuffs like `code`.
+{{< /warning >}}
+
 ## Image
 
 ```

@@ -1,7 +1,7 @@
 baseURL = "https://cgermain97.github.io/Feu-de-Foret/"
 languageCode = "fr"
 defaultContentLanguage = "fr"
-title = "Titre"
+title = "Feu de Forêt"
 theme = "cupper-hugo-theme"
 enableGitInfo = true
 
@@ -15,16 +15,16 @@ posts = "/:filename/"
 quality = 99
 
 [params]
-description = "description"
+description = "Mindset is everything"
 homeMetaContent = ""
-footer = "Texte du footer"
+footer = "Écrit par Camille Germain, 2023. Tous les contenus de ce site sont sous licence CC BY-NC-SA : Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions."
 dateFormat = "Jan 2, 2006"
 codePenUser = "someUser"
 katex = true
 hideHeaderLinks = false
 search = true
 showThemeSwitcher = true
-defaultDarkTheme = false
+defaultDarkTheme = true
 moveFooterToHeader = false
 logoAlt = "Description si le logo ne s'affiche pas"
 customCss = [ "css/custom_01.css", "css/custom_02.css" ]
@@ -89,3 +89,9 @@ xHTML = false
   [markup.tableOfContents]
   endLevel = 6
   startLevel = 2
+
+copyright = "2023 Camille Germain CC BY-NC-SA"
+
+[author]
+	name = "Camille Germain"
+	email = "camille.germain@umontreal.ca"

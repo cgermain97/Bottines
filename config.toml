@@ -26,7 +26,7 @@ search = true
 showThemeSwitcher = true
 defaultDarkTheme = true
 moveFooterToHeader = false
-logoAlt = "Description si le logo ne s'affiche pas"
+logoAlt = "Logo"
 customCss = [ "css/custom_01.css", "css/custom_02.css" ]
 customJs = [ "js/custom_01.js", "js/custom_02.js" ]
 
@@ -54,6 +54,11 @@ weight = 4
 name = "À propos"
 url = "/about/"
 weight = 5
+
+[[menu.nav]]
+name = "Crédits"
+url = "/crédits/"
+weight = 6
 
 [markup]
 defaultMarkdownHandler = "goldmark"

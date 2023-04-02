@@ -1,6 +1,9 @@
 ---
 date: "2017-06-26T18:27:58+01:00"
-title: "<div class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="pjbYoB" data-user="guillaumerxl"  data-prefill='{"title":"Codedoodl.es text animation","description":"Inspiration from codedoodl.es text animation","tags":["text","inspiration","codedoodles","experiment","animation"],"scripts":[],"stylesheets":["https://fonts.googleapis.com/css?family=Quicksand"]}'>
+title: "Accueil"
+---
+
+<div class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="pjbYoB" data-user="guillaumerxl"  data-prefill='{"title":"Codedoodl.es text animation","description":"Inspiration from codedoodl.es text animation","tags":["text","inspiration","codedoodles","experiment","animation"],"scripts":[],"stylesheets":["https://fonts.googleapis.com/css?family=Quicksand"]}'>
   <pre data-lang="html">&lt;div class="center">
   &lt;h1 id="word">
     &lt;span class="letter">F&lt;/span>
@@ -215,5 +218,3 @@ setTimeout( function() {
 
 </pre></div>
 <script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>"
----
-

@@ -9,7 +9,6 @@ toc: true
 
 ### Virginie DeChamplain
 
-![image](/cupper-hugo-theme/images/Virginie-De-Champlain.jpg)
 
 Virginie est née à Rimouski en 1994. Elle a publié son premier roman *Les falaises* en 2020 avec les éditions [*La Peuplade*](https://lapeuplade.com/). Elle détient une maîtrise en études littéraire et une maîtrise en gestion du développement international et aide humanitaire de l'Université Laval. Elle est passionnée de justice sociale et d'innovation, c'est pourquoi elle a continué sa carrière en tant que conseillère en diversité et inclusion. 
 
@@ -18,5 +17,4 @@ Virginie est née à Rimouski en 1994. Elle a publié son premier roman *Les fal
 
 ### Anaïs Barbeau-Lavalette
 
-![image](/cupper-hugo-theme/images/Ana%C3%AFs%20Barbeau-Lavalette.jpg)
 

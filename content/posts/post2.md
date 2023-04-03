@@ -9,7 +9,6 @@ toc: true
 
 ### Les falaises
 
-![image](/themes/images/Les%20falaises.jpg)
 
 ```
 
@@ -29,7 +28,6 @@ réunit ces survivantes de mère en fille qui admettent difficilement être de q
 
 ### La femme qui fuit 
 
-![image](/cupper-hugo-theme/images/Femme%20qui%20fuit.jpg)
 
 ```
 

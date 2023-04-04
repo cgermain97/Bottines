@@ -16,7 +16,7 @@ quality = 99
 
 [params]
 description = "Mindset is everything"
-homeMetaContent = ""
+homeMetaContent = [""]
 footer = "Écrit par Camille Germain, 2023. Tous les contenus de ce site sont sous licence CC BY-NC-SA : Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions."
 dateFormat = "Jan 2, 2006"
 codePenUser = "someUser"

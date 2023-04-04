@@ -13,7 +13,7 @@ Ce site contient :
 
 [Mes articles](https://cgermain97.github.io/Feu-de-Foret/posts/)
 
-[Mes références bibliographiques](https://www.zotero.org/camille.germain/collections/WNT5Z8CA)
+[Mes références bibliographiques](https://www.zotero.org/groups/5014922/feu.de.fort)
 
 Et plus encore...
 

@@ -20,13 +20,14 @@ salon venteux, lieu désigné pour découvrir et mieux effacer – ou la ramener
 manuscrits de sa grand-mère. V. se voit prise dans sa lecture, incapable de s’en détacher. Sa seule échappatoire réside derrière le 
 comptoir d’un bar au village, dans une chevelure rousse aérienne, et s’appelle Chloé.
 
-[Les Falaises](https://lapeuplade.com/archives/livres/les-falaises) fait le récit d’un chaos à dompter, d’un grand voyage onirique, historique et féminin, qui de la Gaspésie à l’Islande 
+Les Falaises fait le récit d’un chaos à dompter, d’un grand voyage onirique, historique et féminin, qui de la Gaspésie à l’Islande 
 réunit ces survivantes de mère en fille qui admettent difficilement être de quelque part, préférant se savoir ailleurs et se déraciner 
 à volonté.
 
 ```
 
 ### La femme qui fuit 
+
 
 
 ```
@@ -44,7 +45,7 @@ Enfance les pieds dans la boue, bataille contre les petits Anglais, éprise d'un
 artistique des Automatistes, romances folles en Europe, combats aux sein des mouvements noirs de l'Amérique en colère; elle fut 
 arracheuse de pissenlits en Ontario, postière en Gaspésie, peintre, poète, amoureuse, amante, dévorante… et fantôme.
 
-[*La femme qui fuit*](https://www.marchanddefeuilles.com/portfolio-item/anais-barbeau-lavalette/) est l'aventure d'une femme explosive, une femme volcan, une femme funambule, restée en marge de l'histoire, qui 
+La femme qui fuit est l'aventure d'une femme explosive, une femme volcan, une femme funambule, restée en marge de l'histoire, qui 
 traversa librement le siècle et ses tempêtes.
 
 Pour l'auteure, c'est aussi une adresse, directe et sans fard, à celle qui blessa sa mère à jamais.

@@ -7,4 +7,7 @@ toc: true
 
 ## Carte narrative
 
- 
+ {{< note >}}
+Voici le parcours de vie de Suzanne Meloche. 
+{{< /note >}}
+

@@ -1,7 +1,7 @@
 baseURL = "https://cgermain97.github.io/Feu-de-Foret/"
 languageCode = "fr"
 defaultContentLanguage = "fr"
-title = "Feu de Forêt"
+title = "Feu de Forêt" 
 theme = "cupper-hugo-theme"
 enableGitInfo = true
 

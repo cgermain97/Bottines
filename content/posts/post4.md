@@ -9,9 +9,4 @@ toc: true
 
 ### Suzanne Meloche
 
-
-{{</* figureCupper
-img="Famille Barbeau.jpg" 
-caption="Suzanne Meloche et Marcel Barbeau avec leurs enfants, Manon et François" 
-command="Resize" 
-options="700x" */>}}
+Elle est le personnage principal de *La femme qui fuit*. 

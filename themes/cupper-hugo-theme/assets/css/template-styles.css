@@ -1,7 +1,8 @@
 /* Fonts */
 @font-face {
     font-family: 'Miriam Libre';
-    src: url('{{ "css/fonts/miriamlibre-bold.woff2" | absURL }}') format('woff2'), url('{{ "css/fonts/miriamlibre-bold.woff" | absURL }}') format('woff');    font-weight: bold;
+    src: url('{{ "css/fonts/AbhayaLibre-Regular.ttf" | absURL }}') format('ttf'), url('{{ "css/fonts/AbhayaLibre-SemiBold" | absURL }}') format('ttf');    
+    font-weight: bold;
     font-style: normal;
 }
 *,

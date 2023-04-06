@@ -27,7 +27,7 @@ showThemeSwitcher = true
 defaultDarkTheme = true
 moveFooterToHeader = false
 logoAlt = ["Logo.png"]
-customCss = [ "css/custom_01.css", "css/fonts.css" ]
+customCss = [ "css/custom_01.css", "css/custom_02.css" ]
 customJs = [ "js/custom_01.js", "js/custom_02.js" ]
 
 [[menu.nav]]

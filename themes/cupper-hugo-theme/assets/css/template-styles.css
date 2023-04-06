@@ -1,6 +1,6 @@
 /* Fonts */
 @font-face {
-    font-family: 'Miriam Libre';
+    font-family: 'Abhaya Libre';
     src: url('{{ "css/fonts/AbhayaLibre-Regular.ttf" | absURL }}') format('ttf'), url('{{ "css/fonts/AbhayaLibre-SemiBold" | absURL }}') format('ttf');    
     font-weight: bold;
     font-style: normal;

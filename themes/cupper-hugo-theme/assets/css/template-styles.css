@@ -17,9 +17,9 @@
 }
 html {
     font-size: calc(1em + 0.33vw);
-    font-family: Arial, Helvetica Neue, sans-serif;
+    font-family: Abhaya Libre, Regular;
     line-height: 1.5;
-    color: #111;
+    color: #0B545B;
     background-color: #fefefe;
 }
 template {

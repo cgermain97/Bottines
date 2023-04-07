@@ -14,7 +14,6 @@
           {{ block "main" . }}{{ end }}
           {{ if ne .Site.Params.moveFooterToHeader true }}
             {{ partial "footer.html" . }}
-          {{ partial "Banner.html" . }}
           {{ end }}
         </div>
       </div>

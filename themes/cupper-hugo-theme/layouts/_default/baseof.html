@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
   {{ partial "head.html" . }}
+
   <body>
     <a href="#main">{{ T "skip_to_content" }}</a>
     {{ partial "noscript.html" . }}
-    {{ partial "svg.html" . }}
+    {{ partial "svg.html" . }}  
+    
     <div class="wrapper">
       {{ partial "header.html" . }}
       <div class="main-and-footer">
@@ -12,12 +14,13 @@
           {{ block "main" . }}{{ end }}
           {{ if ne .Site.Params.moveFooterToHeader true }}
             {{ partial "footer.html" . }}
+          {{ partial "Banner.html" . }}
           {{ end }}
         </div>
       </div>
     </div>
     {{ partial "script.html" . }}
     {{ partial "katex.html" . }}
-    {{ partial "google-analytics-async.html" . }}
+    {{ partial "google-analytics-async.html" . }} 
   </body>
 </html>

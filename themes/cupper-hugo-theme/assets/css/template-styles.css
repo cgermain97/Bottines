@@ -243,15 +243,15 @@ label {
 [for="themer"] {
   background: #111;
   border-radius: 0.33em;
-  color: #fefefe;
+  color: #ffffff;
   padding: 0.25em 0.75em;
   margin: 0.5rem;
 }
 [for="themer"] [aria-hidden]::before {
-  content: 'go dark';
+  content: 'Noir';
 }
 [for="themer"] :checked + [aria-hidden]::before {
-  content: 'on';
+  content: 'Blanc';
 }
 
 /* Tables */

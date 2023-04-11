@@ -7,7 +7,7 @@ toc: true
 ## Présentation du personnage principal
 
 ### Suzanne Meloche
-![image](/static/images/Famille.jpg) 
+
 
 Elle est le personnage principal de *La femme qui fuit*. 
 
@@ -15,7 +15,7 @@ Elle est le personnage principal de *La femme qui fuit*.
 
 ## Carte narrative *La femme qui fuit*
 
- {{< note >}}
+{{< note >}}
 Voici le parcours de vie de Suzanne Meloche. 
 {{< /note >}}
 

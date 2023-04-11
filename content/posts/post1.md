@@ -9,7 +9,7 @@ toc: true
 
 ### Virginie DeChamplain
 
-![image](/images/Virginie.jpg)
+![image](Virginie.jpg)
 
 Virginie est née à Rimouski en 1994. Elle a publié son premier roman [*Les falaises*](https://lapeuplade.com/archives/livres/les-falaises) en 2020 avec les éditions [*La Peuplade*](https://lapeuplade.com/). Elle détient une maîtrise en études littéraire et une maîtrise en gestion du développement international et aide humanitaire de l'Université Laval. Elle est passionnée de justice sociale et d'innovation, c'est pourquoi elle a continué sa carrière en tant que conseillère en diversité et inclusion. 
 
@@ -18,7 +18,7 @@ Virginie est née à Rimouski en 1994. Elle a publié son premier roman [*Les fa
 
 ### Anaïs Barbeau-Lavalette
 
-![image](/images/Anais.jpg)
+![image](Anais.jpg)
 
 
 Anaïs est née à Montréal le 8 février 1979. Elle vient d'une famille d'artistes, ses parents évoluent dans le monde du cinéma, sa grand-mère maternelle était poète et son grand-père, du même côté, peintre. C'est ainsi qu'elle commence sa carrière en tournant des documentaires, elle commencera à s'intéresser à la littérature en 2010, lorsqu'elle écrit son premier livre *Je voudrais qu’on m’efface*, aux éditions Hurtubise. Elle publiera 6 autres livres, tous auprès des éditions [Marchand de feuilles](https://www.marchanddefeuilles.com/). [*La femme qui fuit*](https://www.marchanddefeuilles.com/portfolio-item/anais-barbeau-lavalette/) est son troisième livre. Elle s'intressera aussi au théâtre, avec deux documentaires scénique à son actif, ainsi qu'une pièce co-créée avec Émile Proulx-Cloutier en 2022. Elle est nommée artiste pour la Paix en 2012.

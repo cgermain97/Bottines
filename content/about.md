@@ -1,6 +1,8 @@
 ---
-date: "2014-04-09"
+date: "2023/04/07"
 title: "À propos"
 ---
 
 ## Camille Germain
+
+Passionnée de littérature féministe,  

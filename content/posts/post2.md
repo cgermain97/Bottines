@@ -7,9 +7,11 @@ toc: true
 
 ## Présentation des romans
 
+{{< expandable label="Les falaises" level="2" >}}
+
 ### Les falaises
 
-![image](/static/images/Falaises.jpg)
+![image](/images/Falaises.jpg)
 
 ```
 
@@ -26,10 +28,13 @@ réunit ces survivantes de mère en fille qui admettent difficilement être de q
 à volonté.
 
 ```
+{{< /expandable >}}
+
+{{< expandable label="La femme qui fuit" level="2" >}}
 
 ### La femme qui fuit 
 
-![image](/static/images/Femme.jpg) 
+![image](/images/Femme.jpg) 
 
 ```
 
@@ -52,3 +57,10 @@ traversa librement le siècle et ses tempêtes.
 Pour l'auteure, c'est aussi une adresse, directe et sans fard, à celle qui blessa sa mère à jamais.
 
 ```
+
+{{< /expandable >}}
+
+
+
+
+

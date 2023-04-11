@@ -11,6 +11,7 @@ toc: true
 
 Elle est le personnage principal de *La femme qui fuit*. 
 
+![image](Famille.jpg)
 
 
 ## Carte narrative *La femme qui fuit*

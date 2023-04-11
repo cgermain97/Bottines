@@ -62,7 +62,7 @@ weight = 6
 
 [[menu.nav]]
 name = "Bibliographie"
-url = "/"
+url = "/biblio/"
 weight = 7
 
 [markup]

@@ -5,7 +5,7 @@ title: "Feu de Forêt"
 toc: true
 ---
 
-Bienvenue dans mon carnet d'écriture.
+Bienvenue dans mon carnet d'écriture!
 
 Ce carnet est créé dans le but d’explorer deux oeuvres littéraires : *Les falaises* de Virginie DeChamplain et *La femme qui fuit* d’Anaïs Barbeau-Lavalette. 
 

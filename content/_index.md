@@ -13,6 +13,8 @@ Ce site contient :
 
 [Mes articles](https://cgermain97.github.io/Feu-de-Foret/posts/)
 
+[Une recherche par sujet](https://cgermain97.github.io/Feu-de-Foret/tags/)
+
 [Mes références bibliographiques](https://www.zotero.org/groups/5014922/feu.de.fort)
 
 Et plus encore...

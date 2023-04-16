@@ -5,6 +5,8 @@ title = "Titre"
 theme = "cupper-hugo-theme"
 enableGitInfo = true
 
+
+
 [taxonomies]
 tag = "tags"
 
@@ -15,7 +17,10 @@ posts = "/:filename/"
 quality = 99
 
 [params]
-description = "description"
+# ajout de la métadonnée "licence" qui va concerner l'ensemble du site
+licence = "CC-NC-BY-SA"
+# fin de l'ajout
+description = "description 2"
 homeMetaContent = ""
 footer = "Texte du footer"
 dateFormat = "Jan 2, 2006"
@@ -54,6 +59,11 @@ weight = 4
 name = "À propos"
 url = "/about/"
 weight = 5
+
+[[menu.nav]]
+name = "Crédits"
+url = "/credits/"
+weight = 6
 
 [markup]
 defaultMarkdownHandler = "goldmark"

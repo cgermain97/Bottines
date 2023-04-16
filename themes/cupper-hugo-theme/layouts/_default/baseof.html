@@ -3,17 +3,26 @@
   {{ partial "head.html" . }}
   <body>
     <a href="#main">{{ T "skip_to_content" }}</a>
+
     {{ partial "noscript.html" . }}
     {{ partial "svg.html" . }}
+    
     <div class="wrapper">
       {{ partial "header.html" . }}
+
       <div class="main-and-footer">
         <div>
-          {{ block "main" . }}{{ end }}
+          {{ block "main" . }}{{ end }} 
           {{ if ne .Site.Params.moveFooterToHeader true }}
             {{ partial "footer.html" . }}
+
+           <!--début de la ligne ajoutée qui renvoit à la métadonnées "licence" ajoutée dans le fichier config.toml--> 
+            <p style="text-align: center;">{{ .Site.Params.licence }}</p>
+            <!--fin de la ligne ajoutée -->
+            
           {{ end }}
         </div>
+        
       </div>
     </div>
     {{ partial "script.html" . }}

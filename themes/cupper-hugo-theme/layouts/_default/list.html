@@ -22,7 +22,10 @@
           >
             <use href="#bookmark"></use>
           </svg>
-          {{ .Title }}
+          {{ .Title }} 
+          <!--début de l'ajout de la métadonnée "theme" qui se trouve dans les métadonnées du post1.md-->
+          - {{.Params.Theme}}
+          <!--fin de l'ajout-->
         </a>
       </h2>
     </li>

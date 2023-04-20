@@ -8,7 +8,7 @@ Comme mentionné, ce carnet explore deux oeuvres littéraires, soit *Les falaise
 
 ## Camille Germain
 
-Passionnée de littérature féministe, de gastronomie asiatique et de cinématographie. ELle est aussi étudiante au baccalauréat en littérature, qu'elle a très hâte de finir, pour pouvoir commencer sa maîtrise. Elle a été très inspirée par son cours d'édition numérique et souhaite continuer cette exploration du codage en prenant des cours complémentaires suite à sa maîtrise. 
+Passionnée de littérature féministe, de gastronomie asiatique et de cinématographie. Elle est aussi étudiante au baccalauréat en littérature, qu'elle a très hâte de finir, pour pouvoir commencer sa maîtrise. Elle a été très inspirée par son cours d'édition numérique et souhaite continuer cette exploration du codage en prenant des cours complémentaires suite à sa thèse. 
 
 À la chercher, vous pourrez la trouver dans son chez soi entourée de ses deux chats noirs. 
 

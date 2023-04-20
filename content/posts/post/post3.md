@@ -1,7 +1,7 @@
 ---
 title: "Suzanne Meloche"
 date: 2023/04/03
-tags: [La femme qui fuit, Anaïs Barbeau-Lavalette, Suzanne Meloche]
+tags: [La femme qui fuit, Anaïs Barbeau-Lavalette, Suzanne Meloche, carte narrative]
 toc: true
 ---
 ## Présentation du personnage principal
@@ -13,9 +13,9 @@ Elle est le personnage principal de *La femme qui fuit*.
 
 ![image](../images/Famille.jpg)
 
+Famille Barbeau en 1952. 
 
-
-## Carte narrative *La femme qui fuit*
+### Carte narrative 
 
 {{< note >}}
 Voici le parcours de vie de Suzanne Meloche. 

@@ -9,13 +9,11 @@ toc: true
 
 {{< expandable label="Les falaises" level="2" >}}
 
-### Les falaises
+### Résumé
 
 ![image](../images/Falaises.jpg)
 
 ```
-
-Résumé
 
 V. vient d’apprendre que l’on a retrouvé le corps sans vie de sa mère, rejeté par le Saint-Laurent sur une plage de la Gaspésie, 
 l’équivalent « du bout du monde ». Elle regagne là-bas, brusquement, sa maison natale, et se confectionne une « île » au milieu du 
@@ -32,13 +30,11 @@ réunit ces survivantes de mère en fille qui admettent difficilement être de q
 
 {{< expandable label="La femme qui fuit" level="2" >}}
 
-### La femme qui fuit 
+### Résumé
 
 ![image](../images/Femme.jpg) 
 
 ```
-
-Résumé
 
 Anaïs Barbeau-Lavalette n'a pas connu la mère de sa mère. De sa vie, elle ne savait que très peu de choses. Cette femme s'appelait 
 Suzanne. En 1948, elle est aux côtés de Borduas, Gauvreau et Riopelle quand ils signent Refus Global. Avec Barbeau, elle fonde une 

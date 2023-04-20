@@ -21,3 +21,4 @@ Elle est le personnage principal de *La femme qui fuit*.
 Voici le parcours de vie de Suzanne Meloche. 
 {{< /note >}}
 
+<iframe src="https://uploads.knightlab.com/storymapjs/2364e49ee2808f615b75eba673777cb6/suzanne-meloche/index.html" frameborder="0" width="100%" height="800"></iframe>

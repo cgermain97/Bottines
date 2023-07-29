@@ -1,7 +1,7 @@
-baseURL = "https://cgermain97.github.io/Feu-de-Foret/"
+baseURL = "https://cgermain97.github.io/Bottines/"
 languageCode = "fr"
 defaultContentLanguage = "fr"
-title = "Feu de Forêt" 
+title = "Bottines" 
 theme = "cupper-hugo-theme"
 enableGitInfo = true
 

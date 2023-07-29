@@ -1,206 +1,66 @@
-<banner>
+­<Banner>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="Banner.html">
-    <link rel="stylesheet" href="Banner.css">
-    <script src="https://fonts.googleapis.com/css?family=Quicksand"></script>
-    
+  <div class="name">
+    <div class="letter">B</div>
+    <div class="letter">O</div>
+    <div class="letter">T</div>
+    <div class="letter">T</div>
+    <div class="letter">I</div>
+    <div class="letter">N</div>
+    <div class="letter">E</div>
+    <div class="letter">S</div>
+  </div>
+  <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
 </head>
 <body>
-    <div class="center">
-        <h1 id="word">
-          <span class="letter">F</span>
-          <span class="letter">e</span>
-          <span class="letter">u</span>
-          <span class="letter">.</span>
-          <span class="letter">d</span>
-          <span class="letter">e</span>
-          <span class="letter">.</span>
-          <span class="letter">F</span>
-          <span class="letter">o</span>
-          <span class="letter">r</span>
-          <span class="letter">ê</span>
-          <span class="letter">t</span>
-        </h1>
-        <div id="test"></div>
-      </div>
-</body>
-<script>
-Letters = function() {
-  this.lettersDOM = null;
-  this.active = null;
-  this.letters = [];
-  this.alphabet = ["a", "b", "c", "d","e","f","g","h","i","j","k","l","m","n","o","p","r","s","t","i","u","v","w","x","y","z","~","&","|","^","ç","@","]","[","{","}","ù","*","µ","¤","$","£","€","°",")","(","+","-","/","<",">","²","`","é","è","1","2","3","4","5","6","7","8","9","0"
-  ];
-
-  return this;
-};
-
-Letters.prototype.init = function( word ) {
-  
-  this.lettersDOM = document.querySelectorAll('.letter');
-  this.active = true;
-  var i;
-  var nextChar;
-  var lettersMax = this.lettersDOM.length;
-  
-  for ( i = 0; i < this.lettersDOM.length; i++ ) {
-    
-    if ( word.charAt( i ) != "" )
-      nextChar = word.charAt( i );
-    else 
-      nextChar = false;
-    
-    this.letters.push( new Letter( this.lettersDOM[ i ],  nextChar ) );
-    
+  html {
+    height:100%;
   }
-  
-  if ( word.length > lettersMax ) {
-    
-    var wordContainer = document.getElementById("word");
-
-    for ( i = lettersMax; i < word.length; i++ ) {
-      var letterSpan = document.createElement('span');
-      letterSpan.innerHTML = "";
-      letterSpan.classList.add('letter');
-      wordContainer.appendChild( letterSpan );
-      this.letters.push( new Letter( letterSpan,  word.charAt( i ) ) );
-    }
-  }
-  
-  this.animate();
-  
-  return this;
-  
-};
-
-Letters.prototype.animate = function() {
-  var i;
-  var random;
-  var char;
-  
-  if ( this.active ) {
- 
-    window.requestAnimationFrame( this.animate.bind(this) );
-    
-    var indexes = [];
-
-    for ( i = 0; i < this.letters.length; i++ ) {
-    
-      var current = this.letters[ i ];  
-      
-      if ( !current.isDead ) {     
-        random = Math.floor(Math.random() * (this.alphabet.length - 0));
-        char = this.alphabet[ random ]; 
-        current.render( char );
-      } else {
-        indexes.push( i );
+  body {
+    min-height:100%;
+    height:auto;
+    font-family:"Dancing script";
+    font-size: 3.5rem;
+    color:#4682B4;
+    background:#f1f1f1;
+    display:flex;
+    .name {
+      display:flex;
+      margin:auto;
+      padding:0 1rem 1rem;
+      position: relative;
+      &:before {
+        content:'';
+        width:100%;
+        background:#778899;
+        opacity:0.3;
+        bottom:0;
+        height: 1px;
+        left:0;
+        position:absolute;
       }
-    } 
-    
-    for ( i = 0; i < indexes.length; i++ ) {
-      this.letters.splice( indexes[ i ], 1 );
-    }
-    
-    if ( this.letters.length == 0 ) {
-      this.stop();
+      .letter {
+        display:inline-block;
+        opacity:1;
+        transform:scale(0.9);
+      }
     }
   }
-};
-
-Letters.prototype.start = function( word ) {
-  this.init( word );
-};
-
-Letters.prototype.stop = function() {
-  this.active = false;
-};
-
-Letter = function( DOMElement, nextChar ) {
-  
-  var scope = this;
-  
-  this.DOMEl = DOMElement;
-  this.char = DOMElement.innerHTML;
-  this.next = nextChar;
-  this.speed = Math.floor(Math.random() * (300 - 50) );
-  this.total = 0;
-  this.duration = 2000;
-  this.animating = true;
-  this.isDead = false;
-  
-  this.timer = setInterval(function() { 
-    if ( scope.animating === true ) {
-      scope.total += scope.speed;
-    } 
-    scope.animating = !scope.animating;
-  }, this.speed);
-
-  this.animate();
-  
-  return this;
- 
-};
-
-Letter.prototype.animate = function() {
-  var i;
-  var random;
-  
-  if ( !this.isDead ) {
-    window.requestAnimationFrame( this.animate.bind(this) );
-  }
-  
-  
-  if ( this.total < this.duration ) {
-    
-    if ( this.animating ) {
-      this.DOMEl.innerHTML = this.char;
-    }
-      
-  } else {
-    this.isDead = true;
-    
-    if ( !this.next ) {
-      var parent = document.getElementById('word');
-      parent.removeChild( this.DOMEl );
-      return;
-    }
-    
-    this.DOMEl.innerHTML = this.next;
-  }
-};
-
-Letter.prototype.render = function( char ) {
-  
-  if ( !this.animating ) {
-    this.char = char;
-  }
-  
-};
-
-var word = [  "EXPLORATION", "LITTÉRAIRE", "CARNETD'ÉCRITURE", "Feu.de.Forêt"];
-var nextWord = 1;
-
-var letters = new Letters();
-
-setTimeout( function() {
-  
-  letters.start( word[ nextWord ] );
-  
-  setInterval(function() {
-    nextWord++;
-    if ( nextWord >= word.length )
-      nextWord = 0;
-    
-    letters.start( word[ nextWord ] );
-  }, 10000);
-  
-}, 2000);
+ </body> 
+ <script>
+var opac = anime({
+  targets: '.letter',
+	opacity:1,
+  scale:1,
+	easing:'easeInBounce',
+	delay: function(el, index) {
+	  return index * 80;
+	},
+  direction: 'alternate',
+  loop: true
+});
 </script>
 </html>
-</banner>
+</Banner>

@@ -1,5 +1,5 @@
 ---
-title: "L'autrice"
+title: "Dominique Fortier"
 date: 2023/04/01
 tags: [Dominique Fortier, Les villes de papier]
 toc: true
@@ -10,4 +10,4 @@ Mon conjoint aime beaucoup flâner dans Montréal et aime visiter toutes les lib
 
 
 
-![image](/cupper-hugo-theme/images/Librairie.jpg)
+![image](/static/images/Librairie.jpg)

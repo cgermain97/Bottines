@@ -1,7 +1,16 @@
 ­<Banner>
 <!DOCTYPE html>
-<html lang="en">
-<head>
+ <html>
+  <head> 
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="Banner.html">
+  <link rel="stylesheet" href="Banner.css">
+  
+</head>
+<body>
   <div class="name">
     <div class="letter">B</div>
     <div class="letter">O</div>
@@ -10,46 +19,11 @@
     <div class="letter">I</div>
     <div class="letter">N</div>
     <div class="letter">E</div>
-    <div class="letter">S</div>
+    <div class="letter">S</div> 
+    <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
   </div>
-  <link href="https://fonts.googleapis.com/css?family=Dancing+Script" rel="stylesheet">
-</head>
-<body>
-  html {
-    height:100%;
-  }
-  body {
-    min-height:100%;
-    height:auto;
-    font-family:"Dancing script";
-    font-size: 3.5rem;
-    color:#4682B4;
-    background:#f1f1f1;
-    display:flex;
-    .name {
-      display:flex;
-      margin:auto;
-      padding:0 1rem 1rem;
-      position: relative;
-      &:before {
-        content:'';
-        width:100%;
-        background:#778899;
-        opacity:0.3;
-        bottom:0;
-        height: 1px;
-        left:0;
-        position:absolute;
-      }
-      .letter {
-        display:inline-block;
-        opacity:1;
-        transform:scale(0.9);
-      }
-    }
-  }
- </body> 
- <script>
+</body>
+<script>
 var opac = anime({
   targets: '.letter',
 	opacity:1,

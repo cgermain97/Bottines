@@ -1,7 +1,7 @@
 /* Fonts */
 @font-face {
-    font-family: 'Abhaya Libre';
-    src: url('{{ "css/fonts/AbhayaLibre-Regular.ttf" | absURL }}') format('ttf'), url('{{ "css/fonts/AbhayaLibre-SemiBold" | absURL }}') format('ttf');    
+    font-family: 'Dancing Script';
+    src: url('{{ "css/fonts/DancingScript-Regular.ttf" | absURL }}') format('ttf'), url('{{ "css/fonts/DancingScript-SemiBold.ttf" | absURL }}') format('ttf');    
     font-weight: bold;
     font-style: normal;
 }
@@ -17,9 +17,9 @@
 }
 html {
     font-size: calc(1em + 0.33vw);
-    font-family: Abhaya Libre, Regular;
+    font-family: Dancing Script, Regular;
     line-height: 1.5;
-    color: #0B545B;
+    color: #4682b4;
     background-color: #fefefe;
 }
 template {

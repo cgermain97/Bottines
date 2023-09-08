@@ -11,7 +11,7 @@ Ce site contient :
 
 [Mes articles]()
 
-[Mes références bibliographiques]()
+[Mes références bibliographiques](https://www.zotero.org/camille.germain/collections/6LD4UWZD)
 
 Et plus encore...
 

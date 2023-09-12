@@ -11,7 +11,7 @@ Qu'est-ce que la [littérature numérique](https://www.weblettres.net/guidetice/
 
 Catalogue des œuvres littéraires numériques ([COLiN](https://colin.ex-situ.info/s/colin/page/accueil)) - Construire le corpus du Québec
 
-Ce site regroupe toutes les oeuvres de littérature numérique ayant une réelle richesse littéraire et produites au Québec. 
+Selon les créateurs, ce site regroupe toutes les oeuvres de littérature numérique ayant une réelle richesse littéraire et produites au Québec. Sauf que certains auteurs n'y sont pas présents, donc qu'est-ce que pour eux constitue une valeur littéraire? 
 
 
 

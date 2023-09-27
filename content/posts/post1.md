@@ -12,9 +12,9 @@ toc: true
 
 À la suite d'une recherche aux archives, il se trouve que la seule page que j'ai pu trouver était une correspondance avec Guy Pilon. Celui-ci a envoyé une lettre à la maison d'édition Alto pour Dominique, lui parlant de son premier livre *Les larmes du Saint-Laurent*. Dans le même dossier, il y a une fiche grise, la réponse de Dominique pour Guy Pilon. Voici les photos: 
 
-![lettre]
+![lettre](/static/images/Lettre%20de%20Guy%20Pilon.jpg)
 
-![Réponse]
+![Réponse](/static/images/Réponse%20de%20D.F..jpg)
 
 J'ai aussi cherché pour des archives de la maison d'édition Alto, mais aucun résultat...
 [Alto](https://fr.wikipedia.org/wiki/%C3%89ditions_Alto) est une maison d'édition francophone fondée à Québec en février 2005 par Antoine Tanguay.

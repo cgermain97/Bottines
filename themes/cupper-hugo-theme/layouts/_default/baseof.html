@@ -1,11 +1,14 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.Language.Lang }}">
   {{ partial "head.html" . }}
+
   <body>
     <a href="#main">{{ T "skip_to_content" }}</a>
 
     {{ partial "noscript.html" . }}
-    {{ partial "svg.html" . }}
+
+    {{ partial "svg.html" . }}  
+
     
     <div class="wrapper">
       {{ partial "header.html" . }}
@@ -27,6 +30,6 @@
     </div>
     {{ partial "script.html" . }}
     {{ partial "katex.html" . }}
-    {{ partial "google-analytics-async.html" . }}
+    {{ partial "google-analytics-async.html" . }} 
   </body>
 </html>

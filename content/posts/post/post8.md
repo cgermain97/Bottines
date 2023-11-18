@@ -8,8 +8,11 @@ L’image la plus triste pour moi s’éteindra.
 Celle de mon corps décharné se reflétant dans leurs yeux
 
 Lorsqu’il ne restera plus que mes rides innombrables sur ma peau délavée, 
+
 qui aura la couleur du parchemin taché de café
+
 Lorsque mes os sailleront sous les draps, 
+
 tels les monts de ma douleur
 Lorsqu’il ne restera aucune lumière dans mes yeux rigides, 
 qui refuseront de se fermer

@@ -1,6 +1,6 @@
 ---
 title: "Première histoire"
-date: 2023/09/27
+date: 2023/11/17
 tags: [Tombe, Emily Dickinson, Amherst West Cemetery, Amherst]
 toc: true
 ---

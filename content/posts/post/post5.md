@@ -16,5 +16,9 @@ Pour le terme de [sorcellerie](https://advitam.banq.qc.ca/resultats?state=eyJzZW
 
 [La sorcellerie au Quebec du XVIIe au XIXe siecle](https://bac-lac.on.worldcat.org/oclc/299722926?lang=fr) de Robert-Lionel Séguin. Imprimé en 1978 aux éditions Leméac. La sorcellerie au Canada francais : du XVIIe au XIXe siecles, du même auteur en 1961, édition antérieure? 
 
+Stéphanie me dit que je pourrais explorer l'histoire de la Corriveau... Ça ne m'interpelle pas plus que ça.
+
+
+
 
 

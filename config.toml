@@ -1,9 +1,12 @@
+
 baseURL = "https://cgermain97.github.io/Bottines/"
 languageCode = "fr"
 defaultContentLanguage = "fr"
 title = "Bottines" 
 theme = "cupper-hugo-theme"
 enableGitInfo = true
+
+
 
 [taxonomies]
 tag = "tags"

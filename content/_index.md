@@ -1,8 +1,17 @@
 ---
 date: "2017-06-26T18:27:58+01:00"
-title: "Accueil"
+title: "Feu de Forêt"
 ---
+Bienvenue dans mon carnet d'écriture.
 
-Bienvenue dans la page de présentation du Modèle 2. 
+Ce carnet est créé dans le but d’explorer deux oeuvres littéraires : *Les falaises* de Virginie DeChamplain et *La femme qui fuit* d’Anaïs Barbeau-Lavalette. 
 
-Thème à partir du projet [original Cupper](https://github.com/ThePacielloGroup/cupper).
+Ce site contient :
+
+[Mes articles](https://cgermain97.github.io/Feu-de-Foret/posts/)
+
+[Mes références bibliographiques](https://www.zotero.org/camille.germain/collections/WNT5Z8CA)
+
+Et plus encore...
+
+Bonne exploration!

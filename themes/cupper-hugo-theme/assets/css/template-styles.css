@@ -1,7 +1,7 @@
 /* Fonts */
 @font-face {
-    font-family: 'Abhaya Libre';
-    src: url('{{ "css/fonts/AbhayaLibre-Regular.ttf" | absURL }}') format('ttf'), url('{{ "css/fonts/AbhayaLibre-SemiBold" | absURL }}') format('ttf');    
+    font-family: 'Miriam Libre';
+    src: url('{{ "css/fonts/miriamlibre-bold.woff2" | absURL }}') format('woff2'), url('{{ "css/fonts/miriamlibre-bold.woff" | absURL }}') format('woff');
     font-weight: bold;
     font-style: normal;
 }
@@ -17,9 +17,9 @@
 }
 html {
     font-size: calc(1em + 0.33vw);
-    font-family: Abhaya Libre, Regular;
+    font-family: Arial, Helvetica Neue, sans-serif;
     line-height: 1.5;
-    color: #0B545B;
+    color: #111;
     background-color: #fefefe;
 }
 template {
@@ -98,8 +98,8 @@ div:not([tabindex]):focus {
     display: block;
     width: 100%;
     padding: 0.75rem;
-    color: #ffffff;
-    background: #000000;
+    color: #fefefe;
+    background: #000;
     position: absolute;
     top: -3rem;
     text-align: center;
@@ -243,15 +243,15 @@ label {
 [for="themer"] {
   background: #111;
   border-radius: 0.33em;
-  color: #ffffff;
+  color: #fefefe;
   padding: 0.25em 0.75em;
   margin: 0.5rem;
 }
 [for="themer"] [aria-hidden]::before {
-  content: 'Noir';
+  content: 'go dark';
 }
 [for="themer"] :checked + [aria-hidden]::before {
-  content: 'Blanc';
+  content: 'on';
 }
 
 /* Tables */
@@ -344,7 +344,7 @@ caption {
 }
 .logo img {
     width: 100%;
-    max-width: 10rem;
+    max-width: 12rem;
 }
 .library-desc {
     margin-top: 0.5rem;

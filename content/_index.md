@@ -1,18 +1,8 @@
 ---
 date: "2017-06-26T18:27:58+01:00"
-tags: []
-title: ""
-toc: true
+title: "Accueil"
 ---
 
-Projet de maîtrise
+Bienvenue dans la page de présentation du Modèle 2. 
 
-Ce site contient :
-
-[Mes articles]()
-
-[Mes références bibliographiques]()
-
-Et plus encore...
-
-Bonne exploration!
+Thème à partir du projet [original Cupper](https://github.com/ThePacielloGroup/cupper).

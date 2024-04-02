@@ -1,7 +1,7 @@
-baseURL = "https://cgermain97.github.io/Feu-de-Foret/"
+baseURL = "https://mmellet.github.io/modele2/"
 languageCode = "fr"
 defaultContentLanguage = "fr"
-title = "Feu de Forêt" 
+title = "Titre"
 theme = "cupper-hugo-theme"
 enableGitInfo = true
 
@@ -15,18 +15,18 @@ posts = "/:filename/"
 quality = 99
 
 [params]
-description = "Mindset is everything"
-homeMetaContent = [""]
-footer = "Écrit par Camille Germain, 2023. Tous les contenus de ce site sont sous licence CC BY-NC-SA : Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions."
+description = "description"
+homeMetaContent = ""
+footer = "Texte du footer"
 dateFormat = "Jan 2, 2006"
 codePenUser = "someUser"
 katex = true
 hideHeaderLinks = false
 search = true
 showThemeSwitcher = true
-defaultDarkTheme = true
+defaultDarkTheme = false
 moveFooterToHeader = false
-logoAlt = ["Logo.png"]
+logoAlt = "Description si le logo ne s'affiche pas"
 customCss = [ "css/custom_01.css", "css/custom_02.css" ]
 customJs = [ "js/custom_01.js", "js/custom_02.js" ]
 
@@ -54,16 +54,6 @@ weight = 4
 name = "À propos"
 url = "/about/"
 weight = 5
-
-[[menu.nav]]
-name = "Crédits"
-url = "/crédits/"
-weight = 6
-
-[[menu.nav]]
-name = "Bibliographie"
-url = "/biblio/"
-weight = 7
 
 [markup]
 defaultMarkdownHandler = "goldmark"
@@ -97,11 +87,5 @@ xHTML = false
   tabWidth = 4
 
   [markup.tableOfContents]
-  endLevel = 7
+  endLevel = 6
   startLevel = 2
-
-copyright = "2023 Camille Germain CC BY-NC-SA"
-
-[author]
-	name = "Camille Germain"
-	email = "camille.germain@umontreal.ca"

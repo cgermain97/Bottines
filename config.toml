@@ -6,8 +6,6 @@ title = "Feu de Forêt"
 theme = "cupper-hugo-theme"
 enableGitInfo = true
 
-
-
 [taxonomies]
 tag = "tags"
 
@@ -39,12 +37,12 @@ url = "/"
 weight = 1
 
 [[menu.nav]]
-name = "Posts"
+name = "FRA6262"
 url = "/posts/"
 weight = 2
 
 [[menu.nav]]
-name = "Documentation"
+name = "FREN613"
 url = "/docs/"
 weight = 3
 

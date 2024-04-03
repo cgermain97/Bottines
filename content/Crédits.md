@@ -12,4 +12,3 @@ et les outils :
 
 - [VsCodium](https://vscodium.com/) 
 - [Github](https://github.com/) 
-- [Knight Lab](https://knightlab.northwestern.edu/projects/)

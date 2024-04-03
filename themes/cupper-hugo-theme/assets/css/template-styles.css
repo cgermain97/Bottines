@@ -10,7 +10,7 @@
 *::after {
     font-family: inherit;
     background-color: inherit;
-    color: inherit;
+    color: #2E5D47;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -248,10 +248,10 @@ label {
   margin: 0.5rem;
 }
 [for="themer"] [aria-hidden]::before {
-  content: 'go dark';
+  content: 'NOIR';
 }
 [for="themer"] :checked + [aria-hidden]::before {
-  content: 'on';
+  content: 'BLANC';
 }
 
 /* Tables */

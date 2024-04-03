@@ -9,22 +9,12 @@
         {{ with .Site.Params.navTitleText }}
           <h1>{{ . }}</h1>
         {{ else }}
-        <!--cette image logo se trouve soit dans static/images soit dans themes/cupper-hugo-theme/static/images-->
           <img 
             src="{{ "images/logo.png" | relURL }}" 
             alt="{{ .Site.Params.logoAlt | default "Logo" }}"
           >
 
-          <!--si jamais je souhaite utiliser d'autres images, le chemin va changer selon l'endroit où se trouvent les images
-          <img 
-            src="{{ "./images/bug.jpg" | relURL }}" 
-            alt="{{ .Site.Params.logoAlt | default "Logo" }}"
-          >
-          <img 
-            src="{{ "./image.jpg" | relURL }}" 
-            alt="{{ .Site.Params.logoAlt | default "Logo" }}"
-          >
-        -->
+
         {{ end }}
       </a>
       <p class="library-desc">

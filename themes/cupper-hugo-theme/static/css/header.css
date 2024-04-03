@@ -1,8 +1,8 @@
-/*html, body {
+html, body {
   height: 100%;
   font-family: 'Quicksand', sans-serif;
   overflow: hidden;
-  background: black;
+  color: #2E5D47
 }
 
 
@@ -28,5 +28,4 @@ display: inline-flex;
 align-items: center;
 justify-content: center;
 width: 25px;
-color: white;
 }

@@ -14,7 +14,7 @@
           {{ block "main" . }}{{ end }} 
           {{ if ne .Site.Params.moveFooterToHeader true }}
             {{ partial "footer.html" . }}
-
+          
            <!--début de la ligne ajoutée qui renvoit à la métadonnées "licence" ajoutée dans le fichier config.toml--> 
             <p style="text-align: center;">{{ .Site.Params.licence }}</p>
             <!--fin de la ligne ajoutée -->

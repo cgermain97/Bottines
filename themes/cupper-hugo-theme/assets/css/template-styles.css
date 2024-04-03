@@ -1,7 +1,7 @@
 /* Fonts */
 @font-face {
-    font-family: 'Dancing Script';
-    src: url('{{ "css/fonts/DancingScript-Regular.ttf" | absURL }}') format('ttf'), url('{{ "css/fonts/DancingScript-SemiBold.ttf" | absURL }}') format('ttf');    
+    font-family: 'Miriam Libre';
+    src: url('{{ "css/fonts/miriamlibre-bold.ttf" | absURL }}') format('ttf'), url('{{ "css/fonts/miriamlibre-bold.ttf" | absURL }}') format('ttf');    
     font-weight: bold;
     font-style: normal;
 }
@@ -17,7 +17,7 @@
 }
 html {
     font-size: calc(1em + 0.33vw);
-    font-family: Dancing Script, Regular;
+    font-family: Miriam Libre, Regular;
     line-height: 1.5;
     color: #4682b4;
     background-color: #fefefe;

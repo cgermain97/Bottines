@@ -1,54 +1,18 @@
 ---
-title: "Le livre"
+title: "Regards"
 date: 2023/04/02
-tags: [Les villes de papier]
+tags: [Chalet vert, Hubert]
 toc: true
 ---
 
-## Présentation des romans
+## Regards
 
-### Les falaises
+Alors que le cancer le ronge de l’intérieur, qu’il ne lui reste que la peau et les os, il monte pour une énième fois les marches de son [chalet vert](). Chaque marche est une pure souffrance. Il se meurt, mais ne veut pas y croire. Il repense à la rencontre avec son médecin, qui lui annonçait qu’il ne restait plus rien à faire, que c’était terminé. Il l’avait bien envoyé balader ce bon à rien qui n’y connaissait rien. Lui mourir? Impossible. 
 
-![image](/themes/images/Les%20falaises.jpg)
+La mort l’effraie, couché sur le dos dans le lit conjugal, il refuse de fermer l’œil, car il sait que la mort l’emportera. 
 
-```
+Mon grand-père a toujours eu une horreur des portes closes. Il ne fallait jamais oser fermer une porte, sinon il était là, dans la seconde près, à l’ouvrir. Je ne su jamais ce qui causa cette hantise. Je devais avoir 7-8 ans et je sortais de la douche, je m’étais dit que quelques secondes suffiraient, j’étais assez rapide.
+-Qu’est-ce que j’ai dit sur les portes…
+Sa grosse voix résonna avant de s’éteindre. Dans la même foulée, la porte s’ouvrit sur mon grand-père. Nous nous fixâmes sans rien dire. Une seconde qui paraît une éternité. Aucun mot échangé. Que le silence et la porte qui se referme brusquement.
 
-Résumé
-
-V. vient d’apprendre que l’on a retrouvé le corps sans vie de sa mère, rejeté par le Saint-Laurent sur une plage de la Gaspésie, 
-l’équivalent « du bout du monde ». Elle regagne là-bas, brusquement, sa maison natale, et se confectionne une « île » au milieu du 
-salon venteux, lieu désigné pour découvrir et mieux effacer – ou la ramener – l’histoire des femmes de sa lignée à travers les journaux 
-manuscrits de sa grand-mère. V. se voit prise dans sa lecture, incapable de s’en détacher. Sa seule échappatoire réside derrière le 
-comptoir d’un bar au village, dans une chevelure rousse aérienne, et s’appelle Chloé.
-
-[Les Falaises](https://lapeuplade.com/archives/livres/les-falaises) fait le récit d’un chaos à dompter, d’un grand voyage onirique, historique et féminin, qui de la Gaspésie à l’Islande 
-réunit ces survivantes de mère en fille qui admettent difficilement être de quelque part, préférant se savoir ailleurs et se déraciner 
-à volonté.
-
-```
-
-### La femme qui fuit 
-
-![image](/cupper-hugo-theme/images/Femme%20qui%20fuit.jpg)
-
-```
-
-Résumé
-
-Anaïs Barbeau-Lavalette n'a pas connu la mère de sa mère. De sa vie, elle ne savait que très peu de choses. Cette femme s'appelait 
-Suzanne. En 1948, elle est aux côtés de Borduas, Gauvreau et Riopelle quand ils signent Refus Global. Avec Barbeau, elle fonde une 
-famille. Mais très tôt, elle abandonne ses deux enfants. Pour toujours.
-
-Afin de remonter le cours de la vie de cette femme à la fois révoltée et révoltante, l'auteure a engagé une détective privée.
-Les petites et grandes découvertes n'allaient pas tarder.
-
-Enfance les pieds dans la boue, bataille contre les petits Anglais, éprise d'un directeur de conscience, fugue vers Montréal, frénésie 
-artistique des Automatistes, romances folles en Europe, combats aux sein des mouvements noirs de l'Amérique en colère; elle fut 
-arracheuse de pissenlits en Ontario, postière en Gaspésie, peintre, poète, amoureuse, amante, dévorante… et fantôme.
-
-[*La femme qui fuit*](https://www.marchanddefeuilles.com/portfolio-item/anais-barbeau-lavalette/) est l'aventure d'une femme explosive, une femme volcan, une femme funambule, restée en marge de l'histoire, qui 
-traversa librement le siècle et ses tempêtes.
-
-Pour l'auteure, c'est aussi une adresse, directe et sans fard, à celle qui blessa sa mère à jamais.
-
-```
+Tout comme Auréa, Hubert souhaitait mourir chez lui, dans son lit. Son vœu fut presque exaucé, il est resté jusqu’aux derniers moments dans son condo au huitième étage. Il faisait des chutes, ne mangeait plus, déféquait sur lui-même. Vous savez, lorsque le corps lâche. Mon père y allait souvent pour le relever et aider ma grand-mère à le changer. Je me rappelle cette soirée, nous étions allés les voir en famille. Il n’avait pas été capable de se rendre du salon à son lit. J’avais aidé mon père jusqu’à la chambre, mais c’est mon père qui l’avait changé. Je m’étais tenue dans le cadre de porte pour aider au besoin. C’est la seule fois que j’ai vu mon grand-père nu. Mon regard s’était fixé au sien pendant une seconde d’éternité.

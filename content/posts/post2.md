@@ -7,7 +7,7 @@ toc: true
 
 ## Regards
 
-Alors que le cancer le ronge de l’intérieur, qu’il ne lui reste que la peau et les os, il monte pour une énième fois les marches de son [chalet vert](). Chaque marche est une pure souffrance. Il se meurt, mais ne veut pas y croire. Il repense à la rencontre avec son médecin, qui lui annonçait qu’il ne restait plus rien à faire, que c’était terminé. Il l’avait bien envoyé balader ce bon à rien qui n’y connaissait rien. Lui mourir? Impossible. 
+Alors que le cancer le ronge de l’intérieur, qu’il ne lui reste que la peau et les os, il monte pour une énième fois les marches de son [chalet vert](https://cgermain97.github.io/Feu-de-Foret/chalet/). Chaque marche est une pure souffrance. Il se meurt, mais ne veut pas y croire. Il repense à la rencontre avec son médecin, qui lui annonçait qu’il ne restait plus rien à faire, que c’était terminé. Il l’avait bien envoyé balader ce bon à rien qui n’y connaissait rien. Lui mourir? Impossible. 
 
 La mort l’effraie, couché sur le dos dans le lit conjugal, il refuse de fermer l’œil, car il sait que la mort l’emportera. 
 

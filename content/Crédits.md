@@ -1,5 +1,5 @@
 ---
-date: "2014-04-09"
+date: "2024-04-06"
 title: "Crédits"
 ---
 
@@ -12,3 +12,4 @@ et les outils :
 
 - [VsCodium](https://vscodium.com/) 
 - [Github](https://github.com/) 
+- [KnightLab](https://storymap.knightlab.com/)

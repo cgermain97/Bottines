@@ -1,15 +1,11 @@
 ---
-title: "Le projet"
-date: 2024/04/02
+title: "Introduction"
+date: 2024/04/07
 tags: []
 toc: true
 ---
 
-## L'intermédialité de Vilélie  : le geste de lecture au temps du numérique
-
-Vilélie est un petit village situé dans les montagnes, il existe aux frontières de l'imagination et du réel. Il est construit par du code, du texte, des images, des sons et des hyperliens. Avec une perspective intermédiale, cette analyse explore une forme particulière de littérature numérique interactive. Nous cherchons à comprendre comment l'hybridation des médias, ainsi que la remédiation du texte modifie le geste de lecture.
-
----
+## Vilélie
 
 À une heure trente de Montréal, se trouve la
 une petite ville nichée dans les montagnes du nom de Vilélie. Cette ville était réputée et

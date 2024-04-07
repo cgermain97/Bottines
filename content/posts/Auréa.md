@@ -119,12 +119,7 @@ ils firent la connaissance d’Albert Denton.
 Tout comme Joe, il faisait lui aussi fortune
 dans l’industrie du bois.
 La ville de New Russia est située tout juste après Elizabethtown et compte
-environ vingt habitants. Albert y possédait une scierie située sur les chutes de la
-Bouquet River. Dans les années 80, cette terre fut vendue par Albert à mon
-grand-père, ce dernier y bâtit de ses mains un chalet, dont il prit soin jusqu’à
-son dernier souffle. Encore aujourd’hui, on peut y voir les traces de ce qu’était
-la scierie : trous dans la roche, murs de briques et tiges de métal, une photo
-trône toujours sur le mur des toilettes.
+environ vingt habitants.
 C’est lors de leur
 première visite que
 Joe fut charmé par

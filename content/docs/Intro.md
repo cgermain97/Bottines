@@ -12,6 +12,11 @@ Anne Archet est l’un des grands mystères du web. Autrice anonyme, elle commen
 
 Notre but sera d'analyser l'espace virtuel qu'occupe l'œuvre, sa circulation et celle du lecteur.ice. 
 
+<DIV STYLE="text-align:center">
+
+![Anne Archet](https://hyphes.net/images/thumb/a/a8/Anne_Archet.jpg/300px-Anne_Archet.jpg)
+
+*Photo d'Anne Archet tiré d'Hyphes*
 
 https://cgermain97.github.io/Feu-de-Foret/docs/pornotopie/
 https://cgermain97.github.io/Feu-de-Foret/docs/hyper/

@@ -4,6 +4,7 @@ date: 2024/04/06
 tags: [Anne Archet, parcours, fragments, non-linéarité]
 toc: true
 ---
+<DIV STYLE="text-align:justify">
 
 <!-- Remplacer les clés bib par les parenthèses dans l'export PDF et mettre des liens vers la biblio pour chaque clé.-->
 

@@ -11,7 +11,7 @@ La mort l’effraie, couché sur le dos dans le lit conjugal, il refuse de ferme
 
 ***
 
-Mon [grand-père](https://cgermain97.github.io/Feu-de-Foret/Hubert/) a toujours eu horreur des portes closes. Il ne fallait jamais oser fermer une porte, sinon il était là, dans la seconde près, à l’ouvrir. Je ne su jamais ce qui causa cette hantise. Je devais avoir sept ou huit ans et je sortais de la douche, je m’étais dit que quelques secondes suffiraient, j’étais assez rapide.
+Mon [grand-père](https://cgermain97.github.io/Feu-de-Foret/hubert/) a toujours eu horreur des portes closes. Il ne fallait jamais oser fermer une porte, sinon il était là, dans la seconde près, à l’ouvrir. Je ne su jamais ce qui causa cette hantise. Je devais avoir sept ou huit ans et je sortais de la douche, je m’étais dit que quelques secondes suffiraient, j’étais assez rapide.
 
 - Qu’est-ce que j’ai dit sur les portes…
 
@@ -19,6 +19,6 @@ Sa grosse voix résonna avant de s’éteindre. Dans la même foulée, la porte 
 
 ***
 
-Tout comme [Auréa](https://cgermain97.github.io/Feu-de-Foret/Auréa/), Hubert souhaitait mourir chez lui, dans son lit. Son vœu fut presque exaucé, il est resté jusqu’aux derniers moments dans son condo au huitième étage. Il faisait des chutes, ne mangeait plus, déféquait sur lui-même. Vous savez, lorsque le corps lâche. Mon père y allait souvent pour le relever et aider ma [grand-mère](https://cgermain97.github.io/Feu-de-Foret/Philie/) à le changer. Je me rappelle cette soirée, nous étions allés les voir en famille. Il n’avait pas été capable de se rendre du salon à son lit. J’avais aidé mon père à le porter jusqu’à la chambre, mais c’est mon père qui l’avait changé. Je m’étais tenue dans le cadre de porte pour aider au besoin. C’est la seule fois que j’ai vu mon grand-père nu. 
+Tout comme [Auréa](https://cgermain97.github.io/Feu-de-Foret/auréa/), Hubert souhaitait mourir chez lui, dans son lit. Son vœu fut presque exaucé, il est resté jusqu’aux derniers moments dans son condo au huitième étage. Il faisait des chutes, ne mangeait plus, déféquait sur lui-même. Vous savez, lorsque le corps lâche. Mon père y allait souvent pour le relever et aider ma [grand-mère](https://cgermain97.github.io/Feu-de-Foret/philie/) à le changer. Je me rappelle cette soirée, nous étions allés les voir en famille. Il n’avait pas été capable de se rendre du salon à son lit. J’avais aidé mon père à le porter jusqu’à la chambre, mais c’est mon père qui l’avait changé. Je m’étais tenue dans le cadre de porte pour aider au besoin. C’est la seule fois que j’ai vu mon grand-père nu. 
 <br>
 Mon regard s’était fixé au sien pendant une seconde d’éternité.

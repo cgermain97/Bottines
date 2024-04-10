@@ -5,7 +5,7 @@ tags: [mort, Hubert, poème]
 toc: true
 ---
 
-L’image la plus triste pour [moi](https://cgermain97.github.io/Feu-de-Foret/posts/hubert/) s’éteindra.
+Cette image de [moi](https://cgermain97.github.io/Feu-de-Foret/posts/hubert/) s’éteindra.
 
 Celle de mon corps [décharné](https://cgermain97.github.io/Feu-de-Foret/post2/) se reflétant dans leurs yeux.
 

@@ -11,7 +11,7 @@ On retrouve encore à ce jour quatre églises à [Vilélie](https://cgermain97.g
 
 ***
 
-Quelques semaines avant le décès d'[Auréa](https://cgermain97.github.io/Feu-de-Foret/posts/auréa/), elle fut
+Quelques semaines avant le décès d'[Auréa](https://cgermain97.github.io/Feu-de-Foret/aur%C3%A9a/), elle fut
 branchée à une bonbonne d’oxygène vingt-quatre heures sur vingt-quatre, son cœur lâchait petit à
 petit. Sa maison était tellement grande, que le fil qui la reliait à sa bonbonne mesurait plusieurs mètres de long, elle pouvait ainsi se déplacer de sa chambre à la cuisine pour aller regarder les oiseaux et s’endormir devant la télévision trop forte. 
 Le manque d'oxygène associé à son état de santé l'avait fortement affaiblie. Elle ne parlait presque plus, passait ses journées dans sa grande chaise verte forêt près de la fenêtre et se faisait dorloter par ses infirmières.
@@ -29,7 +29,7 @@ plus bouger.
 
 À 7h16 c'était fini. 
 
-[Auréa](https://cgermain97.github.io/Feu-de-Foret/posts/auréa/) ne voulut pas se faire enterrer, alors
+[Auréa](https://cgermain97.github.io/Feu-de-Foret/aur%C3%A9a/) ne voulut pas se faire enterrer, alors
 son corps fut brûlé, cette petite coquille
 désormais vide, et finalement emmurée. Elle repose
 aujourd'hui dans une urne, seule derrière le mur de marbre dans le bâtiment derrière la petite église blanche.

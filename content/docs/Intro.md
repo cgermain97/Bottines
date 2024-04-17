@@ -15,3 +15,13 @@ Anne Archet est l’un des grands mystères du web. Autrice anonyme, elle commen
 ![Anne Archet](https://hyphes.net/images/thumb/a/a8/Anne_Archet.jpg/300px-Anne_Archet.jpg)
 
 *Photo d'Anne Archet tiré d'Hyphes*
+
+
+
+L’exposé était intéressant et proposait plusieurs pistes d’analyse de Hyphes. Quatre concepts ont été présentés en guise d’introduction à l’étude de l’espace de l’oeuvre: la pornotopie, l’hétérotopie, la fragmentarité et l’éditorialisation. 
+
+Deux sujets se profilent et il conviendra d’en choisir un ou encore de les articuler l’un à l’autre. Le premier touche à l’espace de l’oeuvre et au parcours qu’y trace la lecture, selon cette idée avancée par Vitalo-Rosetti et citée dans « Fragments »: « Passer d’un lien à l’autre, d’un clic à l’autre, détermine la production d’un parcours. Ces parcours n’existent pas avant d’être effectués : il n’y a pas un chemin à parcourir, mais une route à créer.(Vitali-Rosati 2015, 8). ». Les concepts proposés lors de l’exposé visaient essentiellement à décrire cet espace de l’oeuvre. 
+
+Il y a ensuite l’espace imaginaire construit par l’oeuvre, au fil des fragments. Cet espace est à la fois réaliste (on y trouve des hôpitaux, des rues, des autoroutes) et symbolique, rappelant la forêt dantesque et la plongée dans les cercles infernaux. Quelle est l’articulation entre les deux espaces?
+
+J’ai visité la page consacrée au travail et j’apprécie la forme que vous lui donnez. Veillez seulement à ce que l’introduction et la conclusion assurent un bon « liant » entre les parties de l’analyse.

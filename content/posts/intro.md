@@ -22,4 +22,17 @@ Vilélie est un petit village situé dans les montagnes, il existe aux frontièr
 
 ---
 
+## La création 
+
+Pour le moment, Vilélie, en tant qu'oeuvre, comporte :
+
+- 2 fiches personnage
+[Auréa](https://cgermain97.github.io/Feu-de-Foret/aur%C3%A9a/)
+[Hubert](https://cgermain97.github.io/Feu-de-Foret/hubert/)
+
+- 4 fragments d'histoire 
+
+
+- 2 lieux 
+
 Voir les [crédits](https://cgermain97.github.io/Feu-de-Foret/cr%C3%A9dits/)

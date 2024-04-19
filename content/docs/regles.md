@@ -17,3 +17,12 @@ L’espace d’*Hyphes* ne répond pas aux règles d’appropriation qui régiss
 ![HostPapa](https://www.hostpapa.ca/themes/hostpapaV5/img/hostpapa.svg)
 
 *Logo de HostPapa tiré de leur [site internet](https://www.hostpapa.ca/fr/) © 2024 HostPapa, inc.*
+
+
+---
+
+<DIV STYLE="text-align:justify">
+
+Vous avez fini d'explorer? 
+
+Rendez-vous à la [conclusion](https://cgermain97.github.io/Feu-de-Foret/docs/conclu/).

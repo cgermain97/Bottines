@@ -18,3 +18,11 @@ Nous pouvons considérer *Hyphes* comme une hétérotopie de déviation, puisque
 ![Les catacombes](https://hyphes.net/images/thumb/0/08/Les_catacombes.jpg/798px-Les_catacombes.jpg)
 
 *La prison nommée *Les catacombes* tiré d'*Hyphes* écrit par Anne Archet
+
+---
+
+<DIV STYLE="text-align:justify">
+
+Vous avez fini d'explorer? 
+
+Rendez-vous à la [conclusion](https://cgermain97.github.io/Feu-de-Foret/docs/conclu/).

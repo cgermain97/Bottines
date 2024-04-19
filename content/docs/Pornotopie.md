@@ -13,3 +13,12 @@ Pornotopie est un concept tout d'abord amené par [Paul B. Preciado](https://fr.
 ![Plan de l'appartement](https://hyphes.net/images/thumb/9/91/Plan_de_l%27appartement.png/520px-Plan_de_l%27appartement.png)
     
 _Plan de l'appartement tiré du site Hyphes écrit par Anne Archet_
+
+
+---
+
+<DIV STYLE="text-align:justify">
+
+Vous avez fini d'explorer? 
+
+Rendez-vous à la [conclusion](https://cgermain97.github.io/Feu-de-Foret/docs/conclu/).

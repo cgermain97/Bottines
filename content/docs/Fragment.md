@@ -12,4 +12,13 @@ En date d'aujourd'hui[^1], le mycélium compte 318 hyphes. À partir de la page 
 
 Les déplacements des lecteur.ice.s dans cet [espace](https://cgermain97.github.io/Feu-de-Foret/docs/h%C3%A9t%C3%A9ro/) sont rendus possibles grâce aux index, listes et hyperliens qui relient tous -- ou presque, il existe parfois des liens « morts » -- les hyphes. Chaque liste, chaque catégorie ou index, nous fera prendre un itinéraire et des détours de lecture différents : « Passer d’un lien à l’autre, d’un clic à l’autre, détermine la production d’un parcours. Ces parcours n’existent pas avant d’être effectués : il n’y a pas un chemin à parcourir, mais une route à créer[(Vitali-Rosati 2015, 8)](https://cgermain97.github.io/Feu-de-Foret/docs/biblio/). ». Ainsi, tout lecteur.ice qui « entre » dans l'œuvre, choisira -- peut-être malgré lui, certains liens sont trompeurs -- un parcours de lecture unique ou presque, puisqu'il pourrait se diriger directement vers les fils narratifs et en faire une lecture linéaire, cela sans explorer un seul concept parallèle. Comme le dit Saemmer, les œuvre hypertextuelles : « engagent le lecteur dans l’exploration de labyrinthes textuels[(Saemmer 2018, 5)](https://cgermain97.github.io/Feu-de-Foret/docs/biblio/) ». Cette structure permet aux lecteur.ice.s de suivre un trajet indéterminé et d'interagir avec le texte. Cependant, tous les hyphes ont en commun de faire partie de ce monde imaginaire, comme le mentionne Marcello Vitali-Rosati : « La non-linéarité n’est donc pas synonyme de manque de direction : elle est une démarche heuristique ouverte, qui ressemble en tout à une recherche d’informations sur le web[(Vitali-Rosati 2015, 8)](https://cgermain97.github.io/Feu-de-Foret/docs/biblio/). ». Ce que lirons les lecteur.ice.s n'est pas dépourvu de sens, à la fin -- ou après chaque bloc de lecture -- de sa visite, il aura créé des liens, continué un fil, visité des lieux ou connu des personnages qui coexistent tous dans l'univers d'*Hyphes*. Il aura « voyagé » avec Anne et ses compagnons d'aventure. En effet, un thème récurrent de cette structure fragmentaire est le voyage. Il existe, à ce jour[^4], 28 [lieux](https://hyphes.net/index.php/Cat%C3%A9gorie:Lieux) dans l'œuvre d'Anne Archet et plus à venir. Ainsi, l'autrice offre un voyage wikipédien non-linéaire et pourvu de sens à ses lecteur.ice.s, qui en feront des parcours uniques, dans cet univers champignonnesque appartenant à l'[espace](https://cgermain97.github.io/Feu-de-Foret/docs/pornotopie/) numérique.
 
-[^4]: Le 17 avril 2024.
+[^1]: Le 17 avril 2024.
+[^4]: Toujours le 17 avril 2024.
+
+---
+
+<DIV STYLE="text-align:justify">
+
+Vous avez fini d'explorer? 
+
+Rendez-vous à la [conclusion](https://cgermain97.github.io/Feu-de-Foret/docs/conclu/).

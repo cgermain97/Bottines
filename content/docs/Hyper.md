@@ -12,4 +12,3 @@ En date d'aujourd'hui[^1], le mycélium compte 318 hyphes. À partir de la page 
 
 
 [^1]: Le 30 mars 2024.
-[^2]: Émise par [Pascal Brissette](https://fr.wikipedia.org/wiki/Pascal_Brissette).

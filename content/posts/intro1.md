@@ -40,6 +40,8 @@ Pour le moment, Vilélie, en tant qu'oeuvre, comporte :
 [Le chalet vert](https://cgermain97.github.io/Feu-de-Foret/chalet/)
 [La maison triangle](https://cgermain97.github.io/Feu-de-Foret/triangle/)
 
+Le but est d’en créer beaucoup plus, d’avoir un ou deux fils narratifs, de construire une ville avec ses habitants et de suivre leurs histoires du début à la fin. Une centaine de fragments au total dans le cadre du mémoire, mais pour le travail je vous en présente huit.
+
 Voir les [crédits](https://cgermain97.github.io/Feu-de-Foret/cr%C3%A9dits/)
 
 ---
@@ -48,5 +50,5 @@ Voir les [crédits](https://cgermain97.github.io/Feu-de-Foret/cr%C3%A9dits/)
 
 L'analyse effectuée pour le cours FRA6262 est divisée en parties. Nous vous suggérons de les parcourir à l'aide des hyperliens dans le texte de l'introduction ou en cliquant sur FRA6262 dans le menu à gauche de l'écran, cela vous mènera à la liste complète de tous les liens. 
 
-Pour voir la [bibliographie](https://cgermain97.github.io/Feu-de-Foret/biblio1/). c'est ici.
+Pour voir la [bibliographie](https://cgermain97.github.io/Feu-de-Foret/biblio1/).
 

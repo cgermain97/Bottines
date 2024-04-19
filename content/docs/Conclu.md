@@ -12,3 +12,5 @@ Pour conclure, *Hyphes* est un espace complexe qui se définit de plusieurs mani
 --- 
 
 Vous êtes maintenant arrivé à la fin de cette analyse sur *Hyphes*. Vous devriez avoir visité huit pages au total en plus de la bibliographie. 
+
+Pour voir les crédits c'est [ici](https://cgermain97.github.io/Feu-de-Foret/cr%C3%A9dits/).

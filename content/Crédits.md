@@ -15,4 +15,4 @@ et les outils :
 - [Craiyon](https://www.craiyon.com/) pour les images
 - [Stylo](https://stylo.huma-num.fr/) pour la rédaction
 
-Tous les sons ont été enregistrés par moi-même à l'aide de l'application dictaphone sur mon cellulaire.
+Tous les sons ont été enregistrés par moi-même à l'aide de l'application dictaphone sur mon cellulaire. Certaines photos ont été prises par moi ou sont de vieilles photos retrouvées à la mort d'Auréa.

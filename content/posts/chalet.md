@@ -4,6 +4,10 @@ date: 2024/04/03
 tags: [chalet, lieux]
 toc: true
 ---
+<audio controls="controls">
+  <source type="audio/mp3" src="../audio/Les chutes.mp3"></source>
+  <p>Your browser does not support the audio element.</p>
+</audio>
 
 <DIV STYLE="text-align:justify">
 
@@ -20,7 +24,3 @@ Plusieurs années avant la construction du chalet, une scierie trônait sur les 
 
 *Le chalet vert*
 
-<audio controls="controls">
-  <source type="audio/mp3" src="../audio/Les chutes.mp3"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>

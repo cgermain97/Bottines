@@ -5,6 +5,8 @@ tags: [mort, Hubert, poème]
 toc: true
 ---
 
+<DIV STYLE="text-align:right">
+
 Cette image de [moi](https://cgermain97.github.io/Feu-de-Foret/posts/hubert/) s’éteindra.
 
 Celle de mon corps [décharné](https://cgermain97.github.io/Feu-de-Foret/post2/) se reflétant dans leurs yeux.
@@ -40,3 +42,5 @@ nous compterons les secondes,
 puis les minutes qui s’écouleront, 
 
 jusqu’à la dernière répétition.
+
+![Chambre d'hôpital](../images/chambre_hopital.png)

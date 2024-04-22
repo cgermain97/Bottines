@@ -16,7 +16,7 @@ Il fut construit par [Hubert](https://cgermain97.github.io/Feu-de-Foret/hubert/)
 
 Dans la cuisine, une porte patio donne sur l'extérieur. Quand on sort, on arrive sur un immense balcon de bois qui fait face à la rivière. Le terrain est encore majoritairement boisé et s'étend à perte de vue. À descendre vers la rivière, on arrive sur d'énormes rochers où coulent des chutes d'eau. Les plus téméraires peuvent s'aventurer dans la forêt à droite, un ancien sentier laissé à l'abandon remonte le courant et débouche sur un second rocher plat, où il fait bon l'été de se tremper les pieds et se faire griller au soleil. 
 
-Plusieurs années avant la construction du chalet, une scierie trônait sur les chutes de la rivière. Elle appartenait au second mari d'[Auréa](https://cgermain97.github.io/Feu-de-Foret/auréa/). Ce dernier vendit a terre à Hubert lorsqu'il n'en eut plus besoin. Encore aujourd’hui, sur l'immense rocher en bas du terrain, on peut y voir les traces de ce qu’était la scierie : trous dans la roche, murs de briques et tiges de métal. Une photo de la scierie trône toujours sur le mur des toilettes du chalet.
+Plusieurs années avant la construction du chalet, une scierie trônait sur les chutes de la rivière. Elle appartenait au second mari d'[Auréa](https://cgermain97.github.io/Feu-de-Foret/auréa/). Ce dernier vendit la terre à Hubert lorsqu'il n'en eut plus besoin. Encore aujourd’hui, sur l'immense rocher en bas du terrain, on peut y voir les traces de ce qu’était la scierie : trous dans la roche, murs de briques et tiges de métal. Une photo de la scierie trône toujours sur le mur des toilettes du chalet.
 
 <DIV STYLE="text-align:center">
 
